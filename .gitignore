@@ -1,0 +1,11 @@
+# IDE configuration and artifacts
+.vscode
+
+# Build artifacts
+target
+
+# Environment variables
+.env*
+
+# Misc
+.DS_Store
